@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://fengyue97.github.io</id>
+    <title>风月</title>
+    <updated>2025-10-14T07:13:54.240Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://fengyue97.github.io"/>
+    <link rel="self" href="https://fengyue97.github.io/atom.xml"/>
+    <subtitle>风月本是故人心。</subtitle>
+    <logo>https://fengyue97.github.io/images/avatar.png</logo>
+    <icon>https://fengyue97.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 风月</rights>
+    <entry>
+        <title type="html"><![CDATA[钥匙]]></title>
+        <id>https://fengyue97.github.io/post/ce-shi/</id>
+        <link href="https://fengyue97.github.io/post/ce-shi/">
+        </link>
+        <updated>2025-10-14T07:00:25.000Z</updated>
+        <content type="html"><![CDATA[<p>搬进 302 那天，房东特意叮嘱：“门只能用我给的钥匙开，楼下配锁的老张手艺差，别去折腾。” 我笑着应下，把那枚生锈的黄铜钥匙串在钥匙扣上，和公司门卡、家里的钥匙挨在一起。​<br>
+入住第三晚，我被客厅的响动惊醒。月光从窗帘缝钻进来，隐约看见玄关处有个黑影。我攥紧手机正要报警，黑影却突然消失了，只留下一串轻微的 “咔嗒” 声 —— 像是钥匙归位的声音。​<br>
+第二天检查门锁，完好无损。我以为是自己太紧张，直到周末加班回家，发现钥匙扣上多了枚陌生的钥匙。那钥匙和我家的一模一样，只是更亮，像是刚用过。我立刻找房东，她却脸色发白：“302 以前住过个姑娘，也是总说钥匙不对劲，后来……” 她没往下说，只塞给我一瓶朱砂，让我涂在钥匙上。​<br>
+涂了朱砂的钥匙果然管用，接连几天都没再出怪事。直到昨天加班，我在公司茶水间洗手，无意间瞥见钥匙扣上的朱砂蹭掉了一块。心脏猛地一缩，我抓起包就往家跑。​<br>
+电梯里，我反复摩挲那枚钥匙，冰凉的金属触感让我发颤。楼层数字跳到 3，门开了，我几乎是扑到 302 门前，慌乱中却摸不到钥匙。低头一看，钥匙扣上空空如也，只有一道新鲜的划痕 —— 像是被什么东西硬生生扯断的。​<br>
+身后突然传来 “咔嗒” 声，和那天夜里的声音一模一样。我僵硬地回头，看见一个穿白裙的女人站在电梯口，手里攥着枚钥匙，钥匙上的朱砂正一点点往下掉。她抬起头，嘴角咧开一个诡异的弧度：“你看，我说了老张手艺差吧，你还不信。”​<br>
+我这才发现，她手里的钥匙，和我丢的那枚，连划痕都一模一样。而她的手腕上，戴着一串和我钥匙扣上一模一样的手链 —— 那是我上周刚买的，从不离身。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[第一篇博客]]></title>
+        <id>https://fengyue97.github.io/post/hello-gridea/</id>
+        <link href="https://fengyue97.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>在 PVE 中，是否需要带山兔或座敷童子，需结合 SP 缘结神的功能和队伍整体需求来判断：<br>
+一、关于山兔<br>
+是否需要带：通常不需要。<br>
+SP 缘结神自身具备增伤（“结缘之舞” 可提供攻击加成和暴伤加成）和鬼火辅助能力，而山兔的核心作用是 “拉条 + 增伤（攻击加成）”。<br>
+当队伍中有 SP 缘结神时，其增伤效果已能满足输出需求，再带山兔会导致功能重叠，且浪费一个式神位。<br>
+二、关于座敷童子<br>
+是否需要带：多数情况不需要。<br>
+SP 缘结神搭配招财猫御魂后，自身就能通过 “招财猫的鬼火回复” 和技能 “结缘之舞的鬼火生成” 保障队伍鬼火；若再搭配 SP 千姬（或普通千姬），鬼火会更加充裕。<br>
+仅在极端鬼火缺口场景（如同时携带多个高鬼火消耗的式神，且无其他鬼火辅助）下，可短暂带座敷童子过渡，但长期来看还是要靠 SP 缘结神 + 招财猫的组合解决鬼火问题。<br>
+总结：在有 SP 缘结神的 PVE 阵容中，山兔和座敷童子通常都不需要带。SP 缘结神的增伤、鬼火辅助功能已能替代山兔的增伤，其自身的招财猫御魂也能覆盖座敷童子的鬼火供给作用，队伍应优先搭配输出、治疗或控制类式神来提升整体效率。</p>
+]]></content>
+    </entry>
+</feed>
